@@ -7,7 +7,7 @@ from pydub.silence import split_on_silence
 import speech_recognition as sr
 from os import path
 
-import ffmpeg
+#import ffmpeg
 #import textract
 import math
 import scipy.io.wavfile as wav
